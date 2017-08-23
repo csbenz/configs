@@ -7,7 +7,7 @@ For the moment this repository contains only conf files situated at the root of 
 Courtesy of https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 ### If you already store your configuration/dotfiles in a Git repository, on a new system you can migrate to this setup with the following steps:
 
-script: https://gist.github.com/csbenz/f5c8560e9a29cb9cccf8a6522c89943a
+script: https://gist.githubusercontent.com/csbenz/f5c8560e9a29cb9cccf8a6522c89943a/raw/ce12ed5e3469e889e4cd116507b7f3dd5faabad8/cfg-install.sh
 
 * Prior to the installation make sure you have committed the alias to your .bashrc or .zsh:
 ```
