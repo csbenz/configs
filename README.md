@@ -3,6 +3,20 @@ Personal Linux dotfiles.
 
 For the moment this repository contains only conf files situated at the root of the home folder.
 
+# Pre-setup
+- Install [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH):
+```
+apt install zsh
+```
+- Install [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh):
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+- Install [tmux](https://github.com/tmux/tmux/wiki/Installing):
+```
+sudo apt install tmux
+```
+
 # Setup
 Courtesy of https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 ### If you already store your configuration/dotfiles in a Git repository, on a new system you can migrate to this setup with the following steps:
