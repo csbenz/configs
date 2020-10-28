@@ -8,11 +8,11 @@ For the moment this repository contains only conf files situated at the root of 
 ```
 apt install zsh
 ```
-- Install [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- Install [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh):
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
-- Install tmux:
+- Install [tmux](https://github.com/tmux/tmux/wiki/Installing):
 ```
 sudo apt install tmux
 ```
